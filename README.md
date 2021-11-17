@@ -6,7 +6,7 @@
 ## Table of Contents
 
 * [Summary](#Summary)
-* [Path Explosion](#Path&nbsp;Explosion)
+* [Path Explosion](#Path-Explosion)
 * [Memory Model](#Memory&nbsp;Model) 
 * [Constraint Solving](#Constraint&nbsp;Solving) 
 * [Environment Interaction](#Environment&nbsp;Interaction)
