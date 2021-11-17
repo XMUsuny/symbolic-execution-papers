@@ -21,6 +21,8 @@
 
 * 2018 A Survey of Symbolic Execution Techniques
 
+* 2018 On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE
+
 ## Path Explosion
 
 * 2015 Under-Constrained Symbolic Execution Correctness Checking for Real Code
