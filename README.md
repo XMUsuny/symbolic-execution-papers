@@ -1,6 +1,6 @@
 # Symbolic Execution Papers
 
->This repository is for collecting and grouping the symbolic execution papers and opensource tools in recent years.
+This repository is for collecting and grouping the symbolic execution papers and opensource tools in recent years.
 
 
 ## Table of Contents
