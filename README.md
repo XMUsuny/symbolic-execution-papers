@@ -21,7 +21,7 @@
 
 * 2018 A Survey of Symbolic Execution Techniques
 
-## Path Explosion
+## Path&nbsp;Explosion
 
 * 2015 Under-Constrained Symbolic Execution Correctness Checking for Real Code
 
@@ -40,7 +40,7 @@
 * 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion ([Metrinome](https://github.com/hmc-alpaqa/metrinome))
 
 
-## Constraint Solving
+## Constraint&nbsp;Solving
 
 * 2020 Pending Constraints in Symbolic Execution for Better Exploration and Seeding ([Pending](https://srg.doc.ic.ac.uk/projects/pending-constraints/artifact.html))
 
@@ -54,7 +54,7 @@
 
 * 2021 Address-Aware Query Caching for Symbolic Execution ([KLEE-aaqc](https://github.com/davidtr1037/klee-aaqc))
 
-## Memory Model
+## Memory&nbsp;Model
 
 * 2017 Rethinking pointer reasoning in symbolic execution ([MEMSIGHT](https://github.com/season-lab/memsight))
 
@@ -68,7 +68,7 @@
 
 * 2021 A Bounded Symbolic-Size Model for Symbolic Execution ([KLEE-symsize](https://github.com/davidtr1037/klee-symsize))
 
-## Environment Interaction
+## Environment&nbsp;Interaction
 
 * 2018 Avatar2: A Multi-target Orchestration Platform ([Avatar2](https://github.com/avatartwo/avatar2))
 
@@ -76,7 +76,7 @@
 
 * 2020 Mousse A System for Selective Symbolic Execution of Programs with Untamed ([Mousse](https://github.com/trusslab/mousse))
 
-## Hybrid Fuzzing
+## Hybrid&nbsp;Fuzzing
 
 * 2016 Driller: Augmenting Fuzzing Through Selective Symbolic Execution ([Driller](https://github.com/shellphish/driller))
 
