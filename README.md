@@ -21,7 +21,7 @@
 
 * 2018 A Survey of Symbolic Execution Techniques
 
-## Path&nbsp;Explosion
+## Path Explosion
 
 * 2015 Under-Constrained Symbolic Execution Correctness Checking for Real Code
 
