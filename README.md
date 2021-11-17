@@ -19,9 +19,9 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2010 All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)
 
-* 2018 A Survey of Symbolic Execution Techniques
+* 2016 On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE
 
-* 2018 On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE
+* 2018 A Survey of Symbolic Execution Techniques
 
 ## Path Explosion
 
