@@ -104,9 +104,14 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 ## Others
 
+* 2008 KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs ([KLEE](https://github.com/klee/klee))
+
+* 2011 S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems ([S2E](https://github.com/S2E/s2e))
+
+* 2016 (State of) The Art of War: Offensive Techniques in Binary Analysis ([Angr](https://github.com/angr/angr))
+
 * 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation
 
 * 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
 
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
-
