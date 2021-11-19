@@ -45,7 +45,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 ## Constraint Solving
 
 * 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers
-* 
+
 * 2019 Just Fuzz It Solving Floating-Point Constraints using Coverage-Guided Fuzzing ([JFS](https://github.com/mc-imperial/jfs))
 
 * 2020 Pending Constraints in Symbolic Execution for Better Exploration and Seeding ([Pending](https://srg.doc.ic.ac.uk/projects/pending-constraints/artifact.html))
