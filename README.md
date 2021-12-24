@@ -84,7 +84,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2020 SYMBION: Interleaving Symbolic with Concrete Execution ([SYMBION](https://github.com/angr/angr))
 
-* 2020 Mousse A System for Selective Symbolic Execution of Programs with Untamed ([Mousse](https://github.com/trusslab/mousse))
+* 2020 Mousse: A System for Selective Symbolic Execution of Programs with Untamed ([Mousse](https://github.com/trusslab/mousse))
 
 ## Hybrid Fuzzing
 
@@ -118,7 +118,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2016 (State of) The Art of War: Offensive Techniques in Binary Analysis ([Angr](https://github.com/angr/angr))
 
-* 2019_Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
+* 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
 
 * 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation
 
