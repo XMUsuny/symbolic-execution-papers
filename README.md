@@ -120,7 +120,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
 
-* 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation
+* 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation ([Data](https://www.s3.eurecom.fr/tools/symbolic_execution/ir_study.html))
 
 * 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
 
