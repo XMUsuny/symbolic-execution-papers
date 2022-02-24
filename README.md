@@ -46,9 +46,9 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 ## Constraint Solving
 
-* 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection
+* 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection ([PCC](https://github.com/csienslab-PCC/PathConstraintClassifier))
 
-* 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers
+* 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers? ([Data](https://srg.doc.ic.ac.uk/projects/klee-z3-int-vs-bv/artifact.html))
 
 * 2019 Just Fuzz It Solving Floating-Point Constraints using Coverage-Guided Fuzzing ([JFS](https://github.com/mc-imperial/jfs))
 
@@ -96,7 +96,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2019 Matryoshka: Fuzzing Deeply Nested Branches
 
-* 2019 Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing
+* 2019 Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing ([DigFuzz](https://github.com/shouc/digfuzz))
 
 * 2019 Grey-box Concolic Testing on Binary Code ([Eclipser](https://github.com/SoftSec-KAIST/Eclipser))
 
