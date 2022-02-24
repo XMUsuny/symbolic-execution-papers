@@ -86,6 +86,14 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2020 Mousse: A System for Selective Symbolic Execution of Programs with Untamed ([Mousse](https://github.com/trusslab/mousse))
 
+* 2020 Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation ([Laelaps](https://github.com/dongmu/Laelaps))
+
+* 2021 Automatic Firmware Emulation through Invalidity-guided Knowledge Inference ([uEmu](https://github.com/MCUSec/uEmu))
+
+* 2021 Jetset:Targeted Firmware Rehosting for Embedded Systems ([Jetset](https://github.com/aerosec/jetset/))
+
+* 2022 Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing ([Fuzzware](https://github.com/fuzzware-fuzzer/fuzzware))
+
 ## Hybrid Fuzzing
 
 * 2016 Driller: Augmenting Fuzzing Through Selective Symbolic Execution ([Driller](https://github.com/shellphish/driller))
