@@ -43,6 +43,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion ([Metrinome](https://github.com/hmc-alpaqa/metrinome))
 
+* 2022 Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
 
 ## Constraint Solving
 
