@@ -90,7 +90,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 Automatic Firmware Emulation through Invalidity-guided Knowledge Inference ([uEmu](https://github.com/MCUSec/uEmu))
 
-* 2021 Jetset:Targeted Firmware Rehosting for Embedded Systems ([Jetset](https://github.com/aerosec/jetset/))
+* 2021 Jetset: Targeted Firmware Rehosting for Embedded Systems ([Jetset](https://github.com/aerosec/jetset/))
 
 * 2022 Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing ([Fuzzware](https://github.com/fuzzware-fuzzer/fuzzware))
 
