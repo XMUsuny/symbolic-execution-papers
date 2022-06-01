@@ -43,6 +43,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion ([Metrinome](https://github.com/hmc-alpaqa/metrinome))
 
+* 2021 TracerX: Dynamic Symbolic Execution with Interpolation([TraceX](https://github.com/tracer-x/tracer-x.github.io))
+
 * 2022 Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
 
 ## Constraint Solving
@@ -78,6 +80,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2020 Past-Sensitive Pointer Analysis for Symbolic Execution ([KLEE-pspa](https://github.com/davidtr1037/klee-pspa))
 
 * 2021 A Bounded Symbolic-Size Model for Symbolic Execution ([KLEE-symsize](https://github.com/davidtr1037/klee-symsize))
+
+* 2022 A Deterministic Memory Allocator for Dynamic Symbolic Execution
 
 ## Environment Interaction
 
