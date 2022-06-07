@@ -43,7 +43,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion ([Metrinome](https://github.com/hmc-alpaqa/metrinome))
 
-* 2021 TracerX: Dynamic Symbolic Execution with Interpolation([TraceX](https://github.com/tracer-x/tracer-x.github.io))
+* 2021 TracerX: Dynamic Symbolic Execution with Interpolation ([TraceX](https://github.com/tracer-x/tracer-x.github.io))
 
 * 2022 Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
 
@@ -122,6 +122,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
 
 * 2021 LeanSym: Efficient Hybrid Fuzzing Through Conservative Constraint Debloating
+
+* 2022 JIGSAW: Efficient and Scalable Path Constraints Fuzzing ([JIGSAW](https://github.com/R-Fuzz/jigsaw))
 
 ## Others
 
