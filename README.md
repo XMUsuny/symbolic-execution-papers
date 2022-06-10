@@ -142,3 +142,5 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
 
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
+
+* 2022 SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros
