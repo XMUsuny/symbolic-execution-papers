@@ -49,6 +49,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
 
+* 2022 Combining Static Analysis Error Traces with Dynamic Symbolic Execution ([KLEE-sa](https://srg.doc.ic.ac.uk/projects/klee-sa/artifact.html))
+
 ## Constraint Solving
 
 * 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection ([PCC](https://github.com/csienslab-PCC/PathConstraintClassifier))
