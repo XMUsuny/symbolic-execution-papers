@@ -35,6 +35,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2019 Concolic Testing with Adaptively Changing Search Heuristics ([Chameleon](https://github.com/kupl/Chameleon))
 
+* 2020 Efficient Multiplex Symbolic Execution with Adaptive Search Strategy
+
 * 2020 Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy ([HOMI](https://github.com/kupl/HOMI_public)) 
 
 * 2021 SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning ([SyML](https://github.com/ucsb-seclab/syml))
