@@ -121,10 +121,6 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2020 SAVIOR: Towards Bug-Driven Hybrid Testing ([SAVIOR](https://github.com/evanmak/savior-source))
 
-* 2020 Symbolic execution with SymCC: Don't interpret, compile! ([SymCC](https://github.com/eurecom-s3/symcc))
-
-* 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
-
 * 2021 LeanSym: Efficient Hybrid Fuzzing Through Conservative Constraint Debloating
 
 * 2022 JIGSAW: Efficient and Scalable Path Constraints Fuzzing ([JIGSAW](https://github.com/R-Fuzz/jigsaw))
@@ -145,4 +141,10 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
 
+* 2020 Symbolic execution with SymCC: Don't interpret, compile! ([SymCC](https://github.com/eurecom-s3/symcc))
+
+* 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
+
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
+
+* 2022 SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis ([SYMSAN](https://github.com/R-Fuzz/symsan))
