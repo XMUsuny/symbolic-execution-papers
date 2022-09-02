@@ -27,6 +27,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 ## Path Explosion
 
+* 2011 Directed Incremental Symbolic Execution
+
 * 2015 Under-Constrained Symbolic Execution Correctness Checking for Real Code
 
 * 2018 Chopped Symbolic Execution ([chopper](https://github.com/davidtr1037/chopper))
