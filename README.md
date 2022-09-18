@@ -41,6 +41,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2020 Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy ([HOMI](https://github.com/kupl/HOMI_public)) 
 
+* 2020 Analyzing System Software Components using API Model Guided Symbolic Execution
+
 * 2021 SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning ([SyML](https://github.com/ucsb-seclab/syml))
 
 * 2021 Learning to Explore Paths for Symbolic Execution ([LEARCH](https://github.com/eth-sri/learch))
@@ -123,9 +125,13 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2020 SAVIOR: Towards Bug-Driven Hybrid Testing ([SAVIOR](https://github.com/evanmak/savior-source))
 
+* 2021 Fuzzing Symbolic Expressions ([FUZZY-SAT](https://season-lab.github.io/fuzzolic/))
+
 * 2021 LeanSym: Efficient Hybrid Fuzzing Through Conservative Constraint Debloating
 
 * 2022 JIGSAW: Efficient and Scalable Path Constraints Fuzzing ([JIGSAW](https://github.com/R-Fuzz/jigsaw))
+
+* 2022 CONFETTI: Amplifying Concolic Guidance for Fuzzers ([CONFETTI](https://github.com/neu-se/CONFETTI))
 
 ## Others
 
