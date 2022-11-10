@@ -164,3 +164,5 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2022 SIFT A Tool for Property Directed Symbolic Execution of Multithreaded Software
 
 * 2022 Can symbolic execution be a productivity multiplier for human bug-finders?
+
+* 2022 SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros([SYMBEXCEL](https://github.com/ucsb-seclab/symbexcel))
