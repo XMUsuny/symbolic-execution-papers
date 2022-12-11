@@ -75,6 +75,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 Address-Aware Query Caching for Symbolic Execution ([KLEE-aaqc](https://github.com/davidtr1037/klee-aaqc))
 
+* 2022 Satisfiability Modulo Fuzzing: A Synergistic Combination of SMT Solving and Fuzzing
+
 ## Memory Model
 
 * 2017 Rethinking pointer reasoning in symbolic execution ([MEMSIGHT](https://github.com/season-lab/memsight))
@@ -161,7 +163,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 SymFusion: Hybrid Instrumentation for Concolic Execution ([SymFusion](https://season-lab.github.io/SymFusion/))
 
-* 2022 SIFT A Tool for Property Directed Symbolic Execution of Multithreaded Software
+* 2022 SIFT: A Tool for Property Directed Symbolic Execution of Multithreaded Software
 
 * 2022 Can symbolic execution be a productivity multiplier for human bug-finders?
 
