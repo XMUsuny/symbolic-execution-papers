@@ -77,6 +77,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 Satisfiability Modulo Fuzzing: A Synergistic Combination of SMT Solving and Fuzzing
 
+* 2023 Intelligent Constraint Classification for Symbolic Execution
+
 ## Memory Model
 
 * 2017 Rethinking pointer reasoning in symbolic execution ([MEMSIGHT](https://github.com/season-lab/memsight))
@@ -146,6 +148,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
 
 * 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation ([Data](https://www.s3.eurecom.fr/tools/symbolic_execution/ir_study.html))
+
+* 2019_Deferred Concretization in Symbolic Execution via Fuzzing
 
 * 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
 
