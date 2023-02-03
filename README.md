@@ -11,6 +11,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 * [Constraint Solving](#Constraint-Solving) 
 * [Environment Interaction](#Environment-Interaction)
 * [Hybrid Fuzzing](#Hybrid-Fuzzing)
+* [Engine](#Engine)
 * [Others](#Others) 
 
 ## Summary
@@ -115,8 +116,6 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2016 Driller: Augmenting Fuzzing Through Selective Symbolic Execution ([Driller](https://github.com/shellphish/driller))
 
-* 2018 QSYM: A Practical Concolic Execution Engine ([QSYM](https://github.com/sslab-gatech/qsym))
-
 * 2019 Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing ([Intriguer](https://github.com/seclab-yonsei/intriguer))
 
 * 2019 Matryoshka: Fuzzing Deeply Nested Branches
@@ -137,7 +136,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 CONFETTI: Amplifying Concolic Guidance for Fuzzers ([CONFETTI](https://github.com/neu-se/CONFETTI))
 
-## Others
+## Engine
 
 * 2008 KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs ([KLEE](https://github.com/klee/klee))
 
@@ -145,27 +144,33 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2016 (State of) The Art of War: Offensive Techniques in Binary Analysis ([Angr](https://github.com/angr/angr))
 
-* 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
-
-* 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation ([Data](https://www.s3.eurecom.fr/tools/symbolic_execution/ir_study.html))
-
-* 2019_Deferred Concretization in Symbolic Execution via Fuzzing
-
-* 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
-
-* 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
+* 2018 QSYM: A Practical Concolic Execution Engine ([QSYM](https://github.com/sslab-gatech/qsym))
 
 * 2020 Symbolic execution with SymCC: Don't interpret, compile! ([SymCC](https://github.com/eurecom-s3/symcc))
 
 * 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
+
+* 2022 SymFusion: Hybrid Instrumentation for Concolic Execution ([SymFusion](https://season-lab.github.io/SymFusion/))
+
+* 2022 SolSEE: A Source-Level Symbolic Execution Engine for Solidity([SolSEE](https://sites.google.com/view/solsee/))
+
+## Others
+
+* 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
+
+* 2019 Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation ([Data](https://www.s3.eurecom.fr/tools/symbolic_execution/ir_study.html))
+
+* 2019 Deferred Concretization in Symbolic Execution via Fuzzing
+
+* 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
+
+* 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
 
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
 
 * 2022 SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis ([SYMSAN](https://github.com/R-Fuzz/symsan))
 
 * 2022 Characterizing and Improving Bug-Finders with Synthetic Bugs
-
-* 2022 SymFusion: Hybrid Instrumentation for Concolic Execution ([SymFusion](https://season-lab.github.io/SymFusion/))
 
 * 2022 SIFT: A Tool for Property Directed Symbolic Execution of Multithreaded Software
 
