@@ -58,6 +58,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 ## Constraint Solving
 
+* 2019 Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints
+
 * 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection ([PCC](https://github.com/csienslab-PCC/PathConstraintClassifier))
 
 * 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers? ([Data](https://srg.doc.ic.ac.uk/projects/klee-z3-int-vs-bv/artifact.html))
