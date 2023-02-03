@@ -152,6 +152,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 SymFusion: Hybrid Instrumentation for Concolic Execution ([SymFusion](https://season-lab.github.io/SymFusion/))
 
+* 2022 SIFT: A Tool for Property Directed Symbolic Execution of Multithreaded Software ([SIFT](https://github.com/sysrel/SIFT))
+
 * 2022 SolSEE: A Source-Level Symbolic Execution Engine for Solidity([SolSEE](https://sites.google.com/view/solsee/))
 
 ## Others
