@@ -138,6 +138,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 CONFETTI: Amplifying Concolic Guidance for Fuzzers ([CONFETTI](https://github.com/neu-se/CONFETTI))
 
+* 2023 Evaluating and Improving Hybrid Fuzzing ([CoFuzz](https://github.com/Tricker-z/CoFuzz))
+
 ## Engine
 
 * 2008 KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs ([KLEE](https://github.com/klee/klee))
