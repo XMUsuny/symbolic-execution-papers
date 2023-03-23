@@ -172,6 +172,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
 
+* 2021 On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution
+
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
 
 * 2022 SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis ([SYMSAN](https://github.com/R-Fuzz/symsan))
