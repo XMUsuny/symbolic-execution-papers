@@ -154,6 +154,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
 
+* 2021 On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution
+
 * 2022 SymFusion: Hybrid Instrumentation for Concolic Execution ([SymFusion](https://season-lab.github.io/SymFusion/))
 
 * 2022 SIFT: A Tool for Property Directed Symbolic Execution of Multithreaded Software ([SIFT](https://github.com/sysrel/SIFT))
@@ -171,8 +173,6 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
 
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
-
-* 2021 On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution
 
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
 
