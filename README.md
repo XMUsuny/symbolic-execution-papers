@@ -138,6 +138,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 CONFETTI: Amplifying Concolic Guidance for Fuzzers ([CONFETTI](https://github.com/neu-se/CONFETTI))
 
+* 2022 Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle([Sydr-Fuzz](https://sydr-fuzz.github.io/))
+
 * 2023 Evaluating and Improving Hybrid Fuzzing ([CoFuzz](https://github.com/Tricker-z/CoFuzz))
 
 ## Engine
