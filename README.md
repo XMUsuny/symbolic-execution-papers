@@ -80,6 +80,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 Satisfiability Modulo Fuzzing: A Synergistic Combination of SMT Solving and Fuzzing
 
+* 2022 Strong Optimistic Solving for Dynamic Symbolic Execution ([paper](https://arxiv.org/abs/2209.03710))
+
 * 2023 Intelligent Constraint Classification for Symbolic Execution
 
 ## Memory Model
@@ -95,6 +97,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2020 Past-Sensitive Pointer Analysis for Symbolic Execution ([KLEE-pspa](https://github.com/davidtr1037/klee-pspa))
 
 * 2021 A Bounded Symbolic-Size Model for Symbolic Execution ([KLEE-symsize](https://github.com/davidtr1037/klee-symsize))
+
+* 2021 Towards Symbolic Pointers Reasoning in Dynamic Symbolic Execution ([paper](https://arxiv.org/abs/2109.03698))
 
 * 2022 A Deterministic Memory Allocator for Dynamic Symbolic Execution
 
@@ -138,6 +142,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 CONFETTI: Amplifying Concolic Guidance for Fuzzers ([CONFETTI](https://github.com/neu-se/CONFETTI))
 
+* 2022 Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle ([paper](https://arxiv.org/abs/2211.11595))
+
 * 2023 Evaluating and Improving Hybrid Fuzzing ([CoFuzz](https://github.com/Tricker-z/CoFuzz))
 
 ## Engine
@@ -151,6 +157,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2018 QSYM: A Practical Concolic Execution Engine ([QSYM](https://github.com/sslab-gatech/qsym))
 
 * 2020 Symbolic execution with SymCC: Don't interpret, compile! ([SymCC](https://github.com/eurecom-s3/symcc))
+
+* 2020 Sydr: Cutting Edge Dynamic Symbolic Execution ([Sydr](https://arxiv.org/abs/2011.09269))
 
 * 2021 SymQEMU: Compilation-based symbolic execution for binaries ([SymQEMU](https://github.com/eurecom-s3/symqemu))
 
@@ -173,6 +181,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2020 Running Symbolic Execution Forever ([MoKLEE](https://srg.doc.ic.ac.uk/projects/moklee/artifact.html))
 
 * 2021 TASE: Reducing Latency of Symbolic Execution with Transactional Memory
+
+* 2021 Symbolic Security Predicates: Hunt Program Weaknesses ([paper](https://arxiv.org/abs/2111.05770))
 
 * 2022 SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters ([SymTuner](https://github.com/skkusal/symtuner))
 
