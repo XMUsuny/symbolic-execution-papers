@@ -164,6 +164,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 SolSEE: A Source-Level Symbolic Execution Engine for Solidity([SolSEE](https://sites.google.com/view/solsee/))
 
+* 2022 SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros ([SYMBEXCEL](https://github.com/ucsb-seclab/symbexcel))
+
 ## Others
 
 * 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
@@ -183,7 +185,5 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2022 Characterizing and Improving Bug-Finders with Synthetic Bugs
 
 * 2022 Can symbolic execution be a productivity multiplier for human bug-finders?
-
-* 2022 SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros ([SYMBEXCEL](https://github.com/ucsb-seclab/symbexcel))
 
 * 2022 Symbolic Execution for Randomized Programs
