@@ -98,6 +98,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 A Deterministic Memory Allocator for Dynamic Symbolic Execution
 
+* 2023 KDAlloc: The KLEE Deterministic Allocator ([KDAlloc](https://github.com/srg-imperial/kdalloc-issta-2023))
+
 ## Environment Interaction
 
 * 2018 Avatar2: A Multi-target Orchestration Platform ([Avatar2](https://github.com/avatartwo/avatar2))
