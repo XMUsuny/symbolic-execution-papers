@@ -56,6 +56,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 Combining Static Analysis Error Traces with Dynamic Symbolic Execution ([KLEE-sa](https://srg.doc.ic.ac.uk/projects/klee-sa/artifact.html))
 
+* 2024 Concrete Constraint Guided Symbolic Execution
+
 ## Constraint Solving
 
 * 2019 Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints
@@ -143,6 +145,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2022 Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle ([Sydr-Fuzz](https://sydr-fuzz.github.io/))
 
 * 2023 Evaluating and Improving Hybrid Fuzzing ([CoFuzz](https://github.com/Tricker-z/CoFuzz))
+
+* 2023 Triereme: Speeding up hybrid fuzzing through efficient query scheduling
 
 ## Engine
 
