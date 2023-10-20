@@ -84,6 +84,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 Intelligent Constraint Classification for Symbolic Execution
 
+* 2023 Speeding up SMT Solving via Compiler Optimization
+
 ## Memory Model
 
 * 2017 Rethinking pointer reasoning in symbolic execution ([MEMSIGHT](https://github.com/season-lab/memsight))
