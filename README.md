@@ -58,6 +58,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 Concrete Constraint Guided Symbolic Execution
 
+* 2024 Marco: A Stochastic and Asynchronous Concolic Explorer
+
 ## Constraint Solving
 
 * 2019 Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints
