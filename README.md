@@ -150,7 +150,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 Evaluating and Improving Hybrid Fuzzing ([CoFuzz](https://github.com/Tricker-z/CoFuzz))
 
-* 2023 Triereme: Speeding up hybrid fuzzing through efficient query scheduling
+* 2023 Triereme: Speeding up hybrid fuzzing through efficient query scheduling ([Triereme](https://github.com/vusec/triereme))
 
 ## Engine
 
