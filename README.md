@@ -56,7 +56,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2022 Combining Static Analysis Error Traces with Dynamic Symbolic Execution ([KLEE-sa](https://srg.doc.ic.ac.uk/projects/klee-sa/artifact.html))
 
-* 2024 Concrete Constraint Guided Symbolic Execution
+* 2024 Concrete Constraint Guided Symbolic Execution ([cgs](https://github.com/XMUsuny/cgs))
 
 * 2024 Marco: A Stochastic and Asynchronous Concolic Explorer
 
