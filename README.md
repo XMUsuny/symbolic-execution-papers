@@ -94,7 +94,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 Partial Solution Based Constraint Solving Cache in Symbolic Execution
 
-* 2024 SMTTheory Arbitrage: Approximating Unbounded Constraints using Bounded Theories ([STAUB](https://github.com/mikekben/STAUB)
+* 2024 SMTTheory Arbitrage: Approximating Unbounded Constraints using Bounded Theories ([STAUB](https://github.com/mikekben/STAUB))
 
 ## Memory Model
 
