@@ -114,7 +114,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 KDAlloc: The KLEE Deterministic Allocator ([KDAlloc](https://github.com/srg-imperial/kdalloc-issta-2023))
 
-* 2024 Concretely Mapped Symbolic Memory Locations for Memory Error Detection ([SymLoc](Concretely Mapped Symbolic Memory Locations for Memory Error Detection))
+* 2024 Concretely Mapped Symbolic Memory Locations for Memory Error Detection ([SymLoc](https://github.com/haoxintu/SymLoc))
 
 ## Environment Interaction
 
