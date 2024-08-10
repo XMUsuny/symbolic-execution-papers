@@ -59,6 +59,10 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2024 Concrete Constraint Guided Symbolic Execution ([cgs](https://github.com/XMUsuny/cgs))
 
 * 2024 Marco: A Stochastic and Asynchronous Concolic Explorer
+ 
+* 2024 Compatible Branch Coverage Driven Symbolic Execution for Efficient Bug Finding
+
+* 2024 FeatMaker: Automated Feature Engineering for Search Strategy of Symbolic Execution ([FeatMaker](https://github.com/skkusal/featmaker))
 
 ## Constraint Solving
 
@@ -88,6 +92,10 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 Speeding up SMT Solving via Compiler Optimization
 
+* 2024 Partial Solution Based Constraint Solving Cache in Symbolic Execution
+
+* 2024 SMTTheory Arbitrage: Approximating Unbounded Constraints using Bounded Theories ([STAUB](https://github.com/mikekben/STAUB)
+
 ## Memory Model
 
 * 2017 Rethinking pointer reasoning in symbolic execution ([MEMSIGHT](https://github.com/season-lab/memsight))
@@ -105,6 +113,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2022 A Deterministic Memory Allocator for Dynamic Symbolic Execution
 
 * 2023 KDAlloc: The KLEE Deterministic Allocator ([KDAlloc](https://github.com/srg-imperial/kdalloc-issta-2023))
+
+* 2024 Concretely Mapped Symbolic Memory Locations for Memory Error Detection ([SymLoc](Concretely Mapped Symbolic Memory Locations for Memory Error Detection))
 
 ## Environment Interaction
 
