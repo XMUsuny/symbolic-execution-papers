@@ -190,6 +190,9 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis
   
+* 2024 [Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly](https://hal.science/hal-04627413) ([Owi](https://github.com/OCamlPro/owi))
+
+
 ## Others
 
 * 2019 Computing Summaries of String Loops in C for Better Testing and Refacto ([KLEE-loops](https://srg.doc.ic.ac.uk/projects/loop-summaries/artifact.html))
