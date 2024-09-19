@@ -64,6 +64,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 FeatMaker: Automated Feature Engineering for Search Strategy of Symbolic Execution ([FeatMaker](https://github.com/skkusal/featmaker))
 
+* 2024 Sparse Symbolic Loop Execution (Registered Report)
+
 ## Constraint Solving
 
 * 2019 Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints
