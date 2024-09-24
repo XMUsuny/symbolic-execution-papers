@@ -192,7 +192,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2023 KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis
 
-* 2024_SymFit: Making the Common (Concrete) Case Fast for Binary-Code Concolic Execution ([SymFit](https://github.com/bitsecurerlab/symfit))
+* 2024 SymFit: Making the Common (Concrete) Case Fast for Binary-Code Concolic Execution ([SymFit](https://github.com/bitsecurerlab/symfit))
   
 ## Others
 
