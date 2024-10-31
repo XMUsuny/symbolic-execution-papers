@@ -194,7 +194,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 SymFit: Making the Common (Concrete) Case Fast for Binary-Code Concolic Execution ([SymFit](https://github.com/bitsecurerlab/symfit))
 
-* 2024 Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis ([SymPHP]([https://github.com/bitsecurerlab/symfit](https://github.com/secureweb/symphp)))
+* 2024 Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis ([SymPHP](https://github.com/bitsecurerlab/symfit](https://github.com/secureweb/symphp)))
   
 ## Others
 
