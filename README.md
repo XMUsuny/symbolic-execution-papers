@@ -196,6 +196,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 SymFit: Making the Common (Concrete) Case Fast for Binary-Code Concolic Execution ([SymFit](https://github.com/bitsecurerlab/symfit))
 
+* 2024 Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly ([Owi](https://github.com/OCamlPro/owi))
+
 * 2024 Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis ([SymPHP](https://github.com/secureweb/symphp))
   
 ## Others
