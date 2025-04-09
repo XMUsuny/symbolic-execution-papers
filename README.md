@@ -12,6 +12,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 * [Environment Interaction](#Environment-Interaction)
 * [Hybrid Fuzzing](#Hybrid-Fuzzing)
 * [Engine](#Engine)
+* [Industry](#Industry)
 * [Others](#Others) 
 
 ## Summary
@@ -168,8 +169,6 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2008 KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs ([KLEE](https://github.com/klee/klee))
 
-* 2011 S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems ([S2E](https://github.com/S2E/s2e))
-
 * 2016 (State of) The Art of War: Offensive Techniques in Binary Analysis ([Angr](https://github.com/angr/angr))
 
 * 2018 QSYM: A Practical Concolic Execution Engine ([QSYM](https://github.com/sslab-gatech/qsym))
@@ -199,6 +198,20 @@ This repository is for collecting and grouping the symbolic execution papers and
 * 2024 Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly ([Owi](https://github.com/OCamlPro/owi))
 
 * 2024 Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis ([SymPHP](https://github.com/secureweb/symphp))
+
+## Industry
+
+* 2008 Automated Whitebox Fuzz Testing
+  
+* 2011 S2E: A Platform for In-Vivo Multi-Path Analysis of Software Systems ([S2E](https://github.com/S2E/s2e))
+
+* 2012 Unleashing MAYHEM on Binary Code
+
+* 2013 Billions and Billions of Constraints: Whitebox Fuzz Testing in Production
+
+* 2017 CAB-FUZZ: Practical Concolic Testing Techniques for COTS Operating Systems
+
+* 2020 Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code
   
 ## Others
 
