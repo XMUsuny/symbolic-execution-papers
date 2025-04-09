@@ -211,7 +211,7 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2017 CAB-FUZZ: Practical Concolic Testing Techniques for COTS Operating Systems
 
-* 2020 Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code
+* 2020 Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code ([Sys](https://github.com/PLSysSec/sys))
   
 ## Others
 
