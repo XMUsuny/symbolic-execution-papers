@@ -67,6 +67,8 @@ This repository is for collecting and grouping the symbolic execution papers and
 
 * 2024 Sparse Symbolic Loop Execution (Registered Report)
 
+* 2025 TOPSEED: Learning Seed Selection Strategies for Symbolic Execution from Scratch ([topseed](https://github.com/skkusal/topseed))
+
 ## Constraint Solving
 
 * 2019 Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints
